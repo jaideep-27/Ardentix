@@ -71,7 +71,7 @@ export default function ContactSection() {
                     className="text-center max-w-4xl"
                 >
                     <h3 className="text-3xl md:text-4xl lg:text-5xl font-bold tracking-tight mb-12">
-                        Let's build something meaningful.
+                        Let&apos;s build something meaningful.
                     </h3>
 
                     <div ref={linksRef} className="space-y-4 text-lg md:text-xl">
